@@ -1,0 +1,5 @@
+{
+    "passfrase": "passfrase", # This passfrase shuld be long to prevent repetition
+    "asciimultiplyer": 1, # The multipyer can be any random int, This is just to destort the pattern between the passfrase and password generation
+    "startindex": 1 # The undex can be any random int, This is only used if the key word is shorter then password length, and is is used for distort the starting index
+}
